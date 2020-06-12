@@ -1,0 +1,1 @@
+const unmix = str => str.replace(/(.)(.)?/g, '$2$1');
